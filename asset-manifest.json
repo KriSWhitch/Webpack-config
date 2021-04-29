@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Webpack-config/static/js/main.95106835.chunk.js",
+    "main.js.map": "/Webpack-config/static/js/main.95106835.chunk.js.map",
+    "runtime-main.js": "/Webpack-config/static/js/runtime-main.db83221f.js",
+    "runtime-main.js.map": "/Webpack-config/static/js/runtime-main.db83221f.js.map",
+    "static/js/2.d5fd16fc.chunk.js": "/Webpack-config/static/js/2.d5fd16fc.chunk.js",
+    "static/js/2.d5fd16fc.chunk.js.map": "/Webpack-config/static/js/2.d5fd16fc.chunk.js.map",
+    "index.html": "/Webpack-config/index.html",
+    "static/js/2.d5fd16fc.chunk.js.LICENSE.txt": "/Webpack-config/static/js/2.d5fd16fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db83221f.js",
+    "static/js/2.d5fd16fc.chunk.js",
+    "static/js/main.95106835.chunk.js"
+  ]
+}
